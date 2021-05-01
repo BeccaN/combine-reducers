@@ -10,6 +10,7 @@ class Books extends Component {
     return (
       <div>
         <ul>
+          <h1>Books</h1>
           {books}
         </ul>
       </div>

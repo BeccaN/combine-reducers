@@ -10,6 +10,7 @@ class Authors extends Component {
     return (
       <div>
         <ul>
+          <h1>Authors</h1>
           {authors}
         </ul>
       </div>
